@@ -1,7 +1,7 @@
 Hello!
 
 Below you can find a outline of how to reproduce my solution for the <Competition Predict Future Sales> competition.
-If you run into any trouble with the setup/code or have any questions please contact me at <haDOTeldeebATgmailDOTcom>
+If you run into any trouble with the setup/code or have any questions please contact me at <ha.eldeeb@gmail.com>
 
 ### ARCHIVE CONTENTS
 ensemble.ipynb          : The main code file containing the feature extraction/engineering phase, the models building, and fially the ensemble model.
