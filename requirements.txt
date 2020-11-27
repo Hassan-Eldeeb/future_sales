@@ -1,0 +1,21 @@
+name: future_sales
+channels:
+  - defaults
+dependencies:
+  - pip=20.*
+  - python=3.8.*
+  - pip:
+      - catboost
+      - numpy
+      - pandas
+      - scikit-learn
+      - tensorflow
+      - matplotlib
+      - seaborn
+      - jupyter
+      - scipy
+      - statsmodels
+      - fbprophet
+      - xgboost
+
+
