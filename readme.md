@@ -12,7 +12,7 @@ Manjaro i3 comunity edition (1024 GB boot disk)
 (16 vCPUs, 32 GB memory)
 
 
-#SOFTWARE (python packages are detailed separately in `requirements.txt`):
+#SOFTWARE (python packages are detailed separately in `requirements.txt` or `environment.yml`):
 
 Python 3.8.*
 catboost
