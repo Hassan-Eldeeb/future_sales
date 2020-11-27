@@ -2,17 +2,20 @@ name: future_sales
 channels:
   - defaults
 dependencies:
-  - pip=20.2.2
-  - python=3.8.5
+  - pip=20.*
+  - python=3.8.*
   - pip:
-      - numpy==1.19.1
-      - pandas==1.1.1
-      - scikit-learn==0.23.2
-      - tensorflow==2.3.0
+      - catboost
+      - numpy
+      - pandas
+      - scikit-learn
+      - tensorflow
       - matplotlib
       - seaborn
+      - jupyter
       - scipy
       - statsmodels
       - fbprophet
+      - xgboost
 
 
